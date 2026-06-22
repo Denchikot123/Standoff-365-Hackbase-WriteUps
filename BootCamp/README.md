@@ -10,21 +10,21 @@
 
 | Лабораторная работа | Сложность | Статус | Ссылка на отчет |
 | :--- | :---: | :---: | :--- |
-| **Web-1-1:** Удаленное выполнение кода (RCE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web-1-1/) |
-| **Web-1-2:** Локальное повышение привилегий (LPE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web-1-2/) |
-| **Web-2-1:** Включение локальных файлов (LFI) на узле www.edu.stf | Easy | 🟢 Completed | [Разбор](./Web-2-1/) |
-| **Web-2-2:** Удаленное выполнение кода (RCE) на узле www.edu.stf | Easy | 🟡 In Progress | [Разбор](./Web-2-2/) |
-| **Web-2-3:** Локальное повышение привилегий (LPE) на узле www.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web-2-3/) |
-| **Web-3-1:** Подделка запроса со стороны сервера (SSRF) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](./Web-3-1/) |
-| **Web-3-2:** Удаленное выполнение кода (RCE) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](./Web-3-2/) |
-| **Web-4:** Удаленное выполнение кода (RCE) на узле shop.edu.stf | Easy | 🟡 In Progress | [Разбор](./Web-4/) |
+| **Web-1-1:** Удаленное выполнение кода (RCE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](/Web/Web-1-1/) |
+| **Web-1-2:** Локальное повышение привилегий (LPE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](/Web/Web-1-2/) |
+| **Web-2-1:** Включение локальных файлов (LFI) на узле www.edu.stf | Easy | 🟢 Completed | [Разбор](/Web/Web-2-1/) |
+| **Web-2-2:** Удаленное выполнение кода (RCE) на узле www.edu.stf | Easy | 🟡 In Progress | [Разбор](/Web/Web-2-2/) |
+| **Web-2-3:** Локальное повышение привилегий (LPE) на узле www.edu.stf | Easy | ⚪ Upcoming | [Разбор](/Web/Web-2-3/) |
+| **Web-3-1:** Подделка запроса со стороны сервера (SSRF) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](/Web/Web-3-1/) |
+| **Web-3-2:** Удаленное выполнение кода (RCE) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](/Web/Web-3-2/) |
+| **Web-4:** Удаленное выполнение кода (RCE) на узле shop.edu.stf | Easy | 🟡 In Progress | [Разбор](/Web/Web-4/) |
 
 ### Раздел: Infra
 
 | Лабораторная работа | Сложность | Статус | Ссылка на отчет |
 | :--- | :---: | :---: | :--- |
-| **Infra-1:** Внешняя разведка | Easy | ⚪ Upcoming | [Разбор](./Web-1-1/) |
-| **Infra-2:** Получение доступа к внутренней почте | Easy | ⚪ Upcoming | [Разбор](./Web-1-2/) |
+| **Infra-1:** Внешняя разведка | Easy | ⚪ Upcoming | [Разбор](/Infra/Infra-1/) |
+| **Infra-2:** Получение доступа к внутренней почте | Easy | ⚪ Upcoming | [Разбор](/Infra/Infra-2/) |
 
 ---
 <small>← Вернуться к [Главному README](../README.md)</small>
