@@ -13,7 +13,7 @@
 | **Web-1-1:** Удаленное выполнение кода (RCE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web/Web-1-1/) |
 | **Web-1-2:** Локальное повышение привилегий (LPE) на узле library.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web/Web-1-2/) |
 | **Web-2-1:** Включение локальных файлов (LFI) на узле www.edu.stf | Easy | 🟢 Completed | [Разбор](./Web/Web-2-1/) |
-| **Web-2-2:** Удаленное выполнение кода (RCE) на узле www.edu.stf | Easy | 🟡 In Progress | [Разбор](./Web/Web-2-2/ |
+| **Web-2-2:** Удаленное выполнение кода (RCE) на узле www.edu.stf | Easy | 🟡 In Progress | [Разбор](./Web/Web-2-2/) |
 | **Web-2-3:** Локальное повышение привилегий (LPE) на узле www.edu.stf | Easy | ⚪ Upcoming | [Разбор](./Web/Web-2-3/) |
 | **Web-3-1:** Подделка запроса со стороны сервера (SSRF) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](./Web/Web-3-1/) |
 | **Web-3-2:** Удаленное выполнение кода (RCE) на узле utils.edu.stf | Easy | 🟢 Completed | [Разбор](./Web/Web-3-2/) |
