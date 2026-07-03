@@ -36,7 +36,7 @@ def ssrf_solve():
             else:
                 print(extracted_text.strip())
         else:
-            print(f"[X] Ошибка сервера: {response.status_code}")
+            print(f"Ошибка сервера: {response.status_code}")
 
     except requests.exceptions.RequestException as e:
         print(f"Ошибка подключения: {e}")
