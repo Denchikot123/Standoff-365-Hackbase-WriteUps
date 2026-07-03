@@ -34,9 +34,7 @@ def ssrf_solve():
             if flag_match:
                 print(f"{flag_match.group(0)}")
             else:
-                print("-" * 40)
                 print(extracted_text.strip())
-                print("-" * 40)
         else:
             print(f"[X] Ошибка сервера: {response.status_code}")
 
