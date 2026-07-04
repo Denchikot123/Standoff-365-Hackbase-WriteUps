@@ -55,6 +55,8 @@
 >- **Атакующий запрос:** https: / / test.com / preview?url=http: / / 192.168.1.50:5432
 >
 >**Результат:** По времени ответа или тексту ошибки сервера злоумышленник понимает, запущен ли на внутреннем IP 192.168.1.50 порт базы данных PostgreSQL (5432)
+>
+>*Для подробностей обратитесь к данному источнику [PortSwigger Web Security Academy: SSRF](https://portswigger.net/web-security/ssrf)*
 </details>
 
 ---
