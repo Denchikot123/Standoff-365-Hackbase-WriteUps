@@ -24,6 +24,6 @@
 
 ---
 
-## 🏁 Флаги (Flags)
-*   **User.txt:** `FLAG{user_flag_here}`
-*   **Root.txt:** `FLAG{root_flag_here}`
+## Итоги:
+
+
