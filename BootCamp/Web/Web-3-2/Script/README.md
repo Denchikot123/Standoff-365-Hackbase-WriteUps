@@ -43,5 +43,5 @@ graph LR
    ```
 2. **Запустите скрипт**:
    ```bash
-   python script_name.py
+   python Web-3-2-autocomplete.py
    ```
